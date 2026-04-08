@@ -5,11 +5,6 @@ This project analyzes customer behavior, identifies top-performing products, tra
 
 ---
 
-# 🚀 Live Demo
-(Add after deployment)
-
----
-
 #  Features
 
 - Data cleaning and preprocessing
