@@ -5,6 +5,9 @@ This project analyzes customer behavior, identifies top-performing products, tra
 
 ---
 
+# LIVE DEMO
+ https://ecommerce-customer-segmentation1.streamlit.app/
+---
 #  Features
 
 - Data cleaning and preprocessing
