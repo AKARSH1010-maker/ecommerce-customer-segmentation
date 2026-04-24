@@ -159,7 +159,7 @@ dashboard/app.py
 
 ---
 
-# 👤 Author
+#  Author
 
 *Akarsh Singh Sisoudia*
 
