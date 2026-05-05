@@ -3,12 +3,12 @@
 An interactive **Streamlit dashboard** for e-commerce data cleaning, sales analytics, and **RFM-based customer segmentation**.  
 This project analyzes customer behavior, identifies top-performing products, tracks sales trends, and generates **business insights** through a modern premium UI.
 
----
+
 
 # LIVE DEMO 
  https://ecommerce-customer-segmentation1.streamlit.app/
+
  
----
 #  Features
 
 - Data cleaning and preprocessing
@@ -22,7 +22,7 @@ This project analyzes customer behavior, identifies top-performing products, tra
 - Premium modern UI dashboard
 - Interactive filters (segment, month, country)
 
----
+
 
 #  Project Workflow
 
@@ -34,7 +34,7 @@ This project analyzes customer behavior, identifies top-performing products, tra
 6. Display insights in dashboard  
 7. Allow CSV upload & download processed outputs  
 
----
+
 
 # 📁 Project Structure
 
