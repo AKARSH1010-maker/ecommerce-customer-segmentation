@@ -3,11 +3,6 @@
 An interactive **Streamlit dashboard** for e-commerce data cleaning, sales analytics, and **RFM-based customer segmentation**.  
 This project analyzes customer behavior, identifies top-performing products, tracks sales trends, and generates **business insights** through a modern premium UI.
 
-
-
-# LIVE DEMO 
- https://ecommerce-customer-segmentation1.streamlit.app/
-
  
 #  Features
 
@@ -156,6 +151,11 @@ dashboard/app.py
 - Add export to PDF
 - Add interactive drill-down charts
 - Add customer lifetime value prediction
+
+---
+
+# LIVE DEMO 
+ https://ecommerce-customer-segmentation1.streamlit.app/
 
 ---
 
