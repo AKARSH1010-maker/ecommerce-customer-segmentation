@@ -6,7 +6,7 @@ This project analyzes customer behavior, identifies top-performing products, tra
  
 #  Features
 
-- Data cleaning and preprocessing
+- Data cleaning and preprocessings
 - Missing value handling
 - Sales trend analysis
 - Top-selling product analysis
