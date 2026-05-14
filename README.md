@@ -31,7 +31,7 @@ This project analyzes customer behavior, identifies top-performing products, tra
 
 
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 ecommerce-customer-segmentation/
@@ -64,7 +64,7 @@ ecommerce-customer-segmentation/
 
 ---
 
-# 📊 Dashboard Modules
+#  Dashboard Modules
 
 ## 1. Sales Analytics
 - Monthly sales trend
@@ -101,7 +101,7 @@ ecommerce-customer-segmentation/
 
 ---
 
-# ▶️ Run Locally
+#  Run Locally
 
 ## Clone repository
 ```bash
@@ -131,7 +131,7 @@ streamlit run dashboard/app.py
 
 ---
 
-# 🌐 Deployment
+#  Deployment
 
 Deploy easily using **Streamlit Community Cloud**
 
@@ -143,7 +143,7 @@ dashboard/app.py
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Auto-generate analytics from uploaded CSV
 - Add advanced filters
