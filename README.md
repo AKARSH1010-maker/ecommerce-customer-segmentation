@@ -8,7 +8,7 @@ This project analyzes customer behavior, identifies top-performing products, tra
 
 - Data cleaning and preprocessings
 - Missing value handling
-- Sales trend analysis
+- Sales trend analysiss
 - Top-selling product analysis
 - RFM-based customer segmentation
 - Business insights and recommendations
